@@ -1,8 +1,7 @@
 ### Boas vindas ao meu perfil 💙
 
 Meu nome é Lorenzo Accasto
-- Estou estudando [Alura](https://www.alura.com) no MMdc
-- Estudando JavaScript (odeio) e a lingugem markdown
+- Estudando Python e Java com foco em CyberSecurity
 - Utilizo esse espaço para organização e compartilhamento de projetos em desenvolvimento
 
 ### Entre em contato por
