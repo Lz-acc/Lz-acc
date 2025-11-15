@@ -32,7 +32,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lz-acc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1&custom_title=Status" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lz-acc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1&custom_title=Status" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lz-acc&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=dracula&hide_border=false&order=2&custom_title=Linguagens" height="170" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lz-acc&radius=16&theme=react&area=true&order=5&custom_title=Atividade" height="245" alt="activity-graph graph"  />
 </div>
