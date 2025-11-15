@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">- 👨‍💻 Lorenzo Accasto – Estudante de Análise e Desenvolvimento de Sistemas  <br>- 🎓 Ensino médio em conclusão  <br>- 🔒 Interesse em Cibersegurança  <br>- 💻 Habilidades em programação e tecnologia <br>- 📚 Inglês Intermediário</p>
+<p align="center">- 👨‍💻 Lorenzo Accasto – Estudante de Análise e Desenvolvimento de Sistemas  <br>- 🎓 Cursando Ensino médio  <br>- 🔒 Interesse em Cibersegurança  <br>- 💻 Habilidades em programação e tecnologia <br>- 📚 Inglês Intermediário</p>
 
 ###
 
