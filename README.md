@@ -32,6 +32,7 @@
 ###
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Lz-acc&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lz-acc&radius=16&theme=react&area=true&order=5&custom_title=Atividade" height="245" alt="activity-graph graph"  />
 </div>
 
